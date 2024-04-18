@@ -144,3 +144,11 @@ body{
     margin-left: 1582px;
 }
 
+.borrarpedido{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(182, 20, 20); 
+    color: #fff; 
+    padding: 5px 9px; 
+    border-radius: 8px;
+    text-decoration: none; 
+}
